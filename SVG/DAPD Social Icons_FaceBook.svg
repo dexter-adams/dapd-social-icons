@@ -3,33 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="270px" height="270px" viewBox="0 0 270 270" enable-background="new 0 0 270 270" xml:space="preserve">
 <g>
-	<g>
-		<defs>
-			<rect id="SVGID_139_" x="0" width="270" height="270"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_139_"  overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVGID_2_)">
-			<defs>
-				<path id="SVGID_141_" d="M135,5C63.2034,5,5,63.2034,5,135c0,71.7947,58.2034,130,130,130s130-58.2053,130-130
-					C265,63.2034,206.7966,5,135,5z M166.9781,134.8893h-21.686v77.168h-31.8403v-77.168H97.8267v-26.7512h15.6251v-16.014
-					c0-16.4157,5.6709-26.9591,16.8037-31.4427c5.4706-2.1647,10.1544-2.7358,15.0366-2.7358h24.2224v26.5576h-14.4579
-					c-4.2929,0-7.0306,1.1787-8.397,3.5177c-0.9784,1.5571-1.3675,4.291-1.3675,7.9993v12.1179h24.6115L166.9781,134.8893z"/>
-			</defs>
-			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_141_"  overflow="visible"/>
-			</clipPath>
-			<g clip-path="url(#SVGID_4_)">
-				<defs>
-					<rect id="SVGID_143_" x="0" width="270" height="270"/>
-				</defs>
-				<clipPath id="SVGID_6_">
-					<use xlink:href="#SVGID_143_"  overflow="visible"/>
-				</clipPath>
-				<rect x="0" clip-path="url(#SVGID_6_)" width="270" height="270"/>
-			</g>
-		</g>
-	</g>
+	<path d="M135,265c71.7964,0,130-58.2053,130-130c0-71.7966-58.2036-130-130-130C63.2032,5,5,63.2034,5,135
+		C5,206.7947,63.2032,265,135,265z M97.8267,108.1381h15.625v-16.014c0-16.4157,5.6709-26.9591,16.8037-31.4427
+		c5.4707-2.1647,10.1543-2.7358,15.0366-2.7358h24.2227v26.5576h-14.458c-4.293,0-7.0308,1.1787-8.397,3.5177
+		c-0.9785,1.5571-1.3677,4.291-1.3677,7.9993v12.1179h24.6113l-2.9253,26.7512h-21.686v77.168h-31.8403v-77.168h-15.625V108.1381z"
+		/>
 </g>
 </svg>
